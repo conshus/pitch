@@ -5,6 +5,7 @@ The Minimum Viable Product:
 User will be able to:
 
 *create a tour from a provided list of locations (deadline: 5/17) 
+
 *take the tour with directions provided to them (deadline: 5/18)
 *share their tour to Twitter and Facebook (deadline: 5/21)
 *submit locations to be added (deadline: 5/22)
